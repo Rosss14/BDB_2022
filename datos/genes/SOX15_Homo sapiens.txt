@@ -1,0 +1,2 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9606	Homo sapiens	6665	0	live	SOX15	SOX20, SOX26, SOX27	SRY-box transcription factor 15	protein SOX-15|SRY (sex determining region Y)-box 15|SRY (sex determining region Y)-box 20|SRY-box 15	17p13.1	17	NC_000017.11	7588178	7590094	minus	2	601297	

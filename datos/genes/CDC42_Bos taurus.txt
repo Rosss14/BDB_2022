@@ -1,0 +1,2 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9913	Bos taurus	532712	0	live	CDC42		cell division cycle 42	cell division control protein 42 homolog|cell division cycle 42 (GTP binding protein, 25kDa)		2	NC_037329.1	130733638	130754601	minus	5		

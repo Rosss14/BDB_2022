@@ -1,0 +1,2 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9606	Homo sapiens	23268	0	live	DNMBP	ARHGEF36, CTRCT48, TUBA	dynamin binding protein	dynamin-binding protein|scaffold protein TUBA	10q24.2	10	NC_000010.11	99875571	100009948	minus	20	611282	

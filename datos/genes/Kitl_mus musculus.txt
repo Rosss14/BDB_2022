@@ -1,0 +1,2 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+10090	Mus musculus	17311	0	live	Kitl	Clo, Con, Gbg, Mgf, SCF, SF, SLF, Sl, blz, contrasted, Kitl	kit ligand	kit ligand|C-kit ligand|Steel factor|cloud gray|grizzle-belly|hematopoietic growth factor KL|mast cell growth factor|stem cell factor	10 51.4 cM	10	NC_000076.7	99851477	99936278	plus	10		

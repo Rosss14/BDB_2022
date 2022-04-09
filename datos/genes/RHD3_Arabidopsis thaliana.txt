@@ -1,0 +1,2 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+3702	Arabidopsis thaliana	820600	0	live	RHD3	AT3G13870, GOLGI MUTANT 8, GOM8, ROOT HAIR DEFECTIVE 3	Root hair defective 3 GTP-binding protein (RHD3)	Root hair defective 3 GTP-binding protein (RHD3)		3	NC_003074.8	4565370	4571355	minus	23		

@@ -1,0 +1,2 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+6239	Caenorhabditis elegans	172682	0	live	gls-1	CELE_C36B1.8	Germline survival defective-1	Germline survival defective-1		I	NC_003279.8	8737072	8742548	plus	18		
