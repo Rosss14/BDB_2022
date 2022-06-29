@@ -1,6 +1,0 @@
-xquery version "3.1";
-for $i in doc("/db/isoform/isoforms.xml")//isform
-for $protein in doc("/db/isoform/isoforms.xml")//protein
-where $i/longitud < min($protein/longitud)
-return $i
-
