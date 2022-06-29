@@ -5,14 +5,14 @@ use isoforms;
 
 CREATE TABLE `organism` (
   `tax_id` int(11) NOT NULL,
-  `nombre` varchar(55) NOT NULL,
+  `name` varchar(55) NOT NULL,
   PRIMARY KEY (`tax_id`),
-  UNIQUE KEY `nombre_UNIQUE` (`nombre`)
+  UNIQUE KEY `name_UNIQUE` (`name`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 CREATE TABLE `gene` (
   `id` int(11) NOT NULL,
-  `nombre` varchar(45) NOT NULL,
+  `name` varchar(45) NOT NULL,
   `organism` int(11) NOT NULL,
   PRIMARY KEY (`id`),
   KEY `gene_organism_key_idx` (`organism`),
@@ -21,9 +21,9 @@ CREATE TABLE `gene` (
 
 CREATE TABLE `protein` (
   `id` varchar(20) NOT NULL,
-  `nombre` varchar(100) NOT NULL,
-  `revisado` tinyint(4) DEFAULT NULL,
-  `longitud` int(11) NOT NULL,
+  `name` varchar(100) NOT NULL,
+  `reviewed` tinyint(4) DEFAULT NULL,
+  `length` int(11) NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
@@ -53,8 +53,8 @@ CREATE TABLE `isoform` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `protein_id` varchar(20) NOT NULL,
   `isoform_num` int(11) NOT NULL,
-  `longitud` int(11) NOT NULL,
-  `secuencia` varchar(3000) NOT NULL,
+  `length` int(11) NOT NULL,
+  `sequence` varchar(3000) NOT NULL,
   PRIMARY KEY (`id`),
   KEY `isofrom_protein_key_idx` (`protein_id`),
   CONSTRAINT `isofrom_protein_key` FOREIGN KEY (`protein_id`) REFERENCES `protein` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
