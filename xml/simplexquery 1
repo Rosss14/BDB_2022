@@ -1,0 +1,4 @@
+xquery version "3.1";
+for $protein in doc("/db/isoform/isoforms2.xml")//protein
+where $protein/length >500
+return $protein
