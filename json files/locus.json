@@ -1,0 +1,146 @@
+[
+	{
+		"gene" : 5499,
+		"chromosome" : "11",
+		"map_location" : "11q13.2",
+		"start" : 67398183,
+		"end" : 67401858,
+		"exon_count" : 7
+	},
+	{
+		"gene" : 6665,
+		"chromosome" : "17",
+		"map_location" : "17p13.1",
+		"start" : 7588178,
+		"end" : 7590094,
+		"exon_count" : 2
+	},
+	{
+		"gene" : 4627,
+		"chromosome" : "22",
+		"map_location" : "22q12.3",
+		"start" : 36281280,
+		"end" : 36387967,
+		"exon_count" : 41
+	},
+	{
+		"gene" : 23268,
+		"chromosome" : "10",
+		"map_location" : "10q24.2",
+		"start" : 99875571,
+		"end" : 100009948,
+		"exon_count" : 20
+	},
+	{
+		"gene" : 28227,
+		"chromosome" : "X;Y",
+		"map_location" : "X",
+		"start" : 333933,
+		"end" : 387327,
+		"exon_count" : 16
+	},
+	{
+		"gene" : 28227,
+		"chromosome" : "X;Y",
+		"map_location" : "Y",
+		"start" : 333933,
+		"end" : 387327,
+		"exon_count" : 16
+	},
+	{
+		"gene" : 51386,
+		"chromosome" : "22",
+		"map_location" : "22q13.1",
+		"start" : 37848868,
+		"end" : 37889407,
+		"exon_count" : 13
+	},
+	{
+		"gene" : 5467,
+		"chromosome" : "6",
+		"map_location" : "6p21.31",
+		"start" : 35342558,
+		"end" : 35428180,
+		"exon_count" : 13
+	},
+	{
+		"gene" : 100009298,
+		"chromosome" : "1",
+		"map_location" : null,
+		"start" : 194835165,
+		"end" : 194848754,
+		"exon_count" : 6
+	},
+	{
+		"gene" : 100009298,
+		"chromosome" : "13",
+		"map_location" : null,
+		"start" : 129899950,
+		"end" : 129900231,
+		"exon_count" : 1
+	},
+	{
+		"gene" : 17311,
+		"chromosome" : "10",
+		"map_location" : "10 51.4 cM",
+		"start" : 99851477,
+		"end" : 99936278,
+		"exon_count" : 10
+	},
+	{
+		"gene" : 281881,
+		"chromosome" : "16",
+		"map_location" : null,
+		"start" : 72205829,
+		"end" : 72642416,
+		"exon_count" : 11
+	},
+	{
+		"gene" : 281572,
+		"chromosome" : "23",
+		"map_location" : null,
+		"start" : 17281915,
+		"end" : 17297193,
+		"exon_count" : 8
+	},
+	{
+		"gene" : 532712,
+		"chromosome" : "2",
+		"map_location" : null,
+		"start" : 130733638,
+		"end" : 130754601,
+		"exon_count" : 5
+	},
+	{
+		"gene" : 25583,
+		"chromosome" : "10",
+		"map_location" : "10q25",
+		"start" : 62608373,
+		"end" : 62614726,
+		"exon_count" : 6
+	},
+	{
+		"gene" : 820600,
+		"chromosome" : "3",
+		"map_location" : null,
+		"start" : 4565370,
+		"end" : 4571355,
+		"exon_count" : 23
+	},
+	{
+		"gene" : 172682,
+		"chromosome" : "I",
+		"map_location" : null,
+		"start" : 8737072,
+		"end" : 8742548,
+		"exon_count" : 18
+	},
+	{
+		"gene" : 45970,
+		"chromosome" : "X",
+		"map_location" : "1-61 cM",
+		"start" : 18788464,
+		"end" : 18806057,
+		"exon_count" : 10
+	}
+]

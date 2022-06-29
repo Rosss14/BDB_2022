@@ -1,0 +1,70 @@
+[
+	{
+		"gene_id" : 5499,
+		"protein_id" : "P62136"
+	},
+	{
+		"gene_id" : 6665,
+		"protein_id" : "O60248"
+	},
+	{
+		"gene_id" : 4627,
+		"protein_id" : "P35579"
+	},
+	{
+		"gene_id" : 23268,
+		"protein_id" : "Q6XZF7"
+	},
+	{
+		"gene_id" : 51741,
+		"protein_id" : "Q9NZC7"
+	},
+	{
+		"gene_id" : 28227,
+		"protein_id" : "Q9Y5P8"
+	},
+	{
+		"gene_id" : 51386,
+		"protein_id" : "Q9Y262"
+	},
+	{
+		"gene_id" : 5467,
+		"protein_id" : "Q03181"
+	},
+	{
+		"gene_id" : 100009298,
+		"protein_id" : "P62139"
+	},
+	{
+		"gene_id" : 17311,
+		"protein_id" : "P20826"
+	},
+	{
+		"gene_id" : 281881,
+		"protein_id" : "O18965"
+	},
+	{
+		"gene_id" : 281572,
+		"protein_id" : "P15691"
+	},
+	{
+		"gene_id" : 532712,
+		"protein_id" : "Q2KJ93"
+	},
+	{
+		"gene_id" : 25583,
+		"protein_id" : "P14881"
+	},
+	{
+		"gene_id" : 820600,
+		"protein_id" : "P93042"
+	},
+	{
+		"gene_id" : 172682,
+		"protein_id" : "Q8I4M5"
+	},
+	{
+		"gene_id" : 45970,
+		"protein_id" : "Q9VWQ2"
+	}
+]

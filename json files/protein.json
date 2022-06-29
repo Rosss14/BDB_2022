@@ -1,0 +1,104 @@
+[
+	{
+		"id" : "O18965",
+		"nombre" : "Potassium voltage-gated channel subfamily H member 1",
+		"revisado" : 1,
+		"longitud" : 987
+	},
+	{
+		"id" : "O60248",
+		"nombre" : "Protein SOX-15",
+		"revisado" : 1,
+		"longitud" : 233
+	},
+	{
+		"id" : "P14881",
+		"nombre" : "Beta-crystallin A3",
+		"revisado" : 1,
+		"longitud" : 215
+	},
+	{
+		"id" : "P15691",
+		"nombre" : "Vascular endothelial growth factor A",
+		"revisado" : 1,
+		"longitud" : 190
+	},
+	{
+		"id" : "P20826",
+		"nombre" : "Kit ligand (Hematopoietic growth factor KL)",
+		"revisado" : 1,
+		"longitud" : 273
+	},
+	{
+		"id" : "P35579",
+		"nombre" : "Myosin-9 (Cellular myosin heavy chain, type A)",
+		"revisado" : 1,
+		"longitud" : 1960
+	},
+	{
+		"id" : "P62136",
+		"nombre" : "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit",
+		"revisado" : 1,
+		"longitud" : 330
+	},
+	{
+		"id" : "P62139",
+		"nombre" : "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit",
+		"revisado" : 1,
+		"longitud" : 330
+	},
+	{
+		"id" : "P93042",
+		"nombre" : "Protein ROOT HAIR DEFECTIVE 3",
+		"revisado" : 1,
+		"longitud" : 802
+	},
+	{
+		"id" : "Q03181",
+		"nombre" : "Peroxisome proliferator-activated receptor delta",
+		"revisado" : 1,
+		"longitud" : 441
+	},
+	{
+		"id" : "Q2KJ93",
+		"nombre" : "Cell division control protein 42 homolog",
+		"revisado" : 1,
+		"longitud" : 191
+	},
+	{
+		"id" : "Q6XZF7",
+		"nombre" : "Dynamin-binding protein (Scaffold protein Tuba)",
+		"revisado" : 1,
+		"longitud" : 1577
+	},
+	{
+		"id" : "Q8I4M5",
+		"nombre" : "Germline survival defective-1",
+		"revisado" : 1,
+		"longitud" : 1052
+	},
+	{
+		"id" : "Q9NZC7",
+		"nombre" : "WW domain-containing oxidoreductase",
+		"revisado" : 1,
+		"longitud" : 414
+	},
+	{
+		"id" : "Q9VWQ2",
+		"nombre" : "Serine/threonine-protein kinase S6KL",
+		"revisado" : 1,
+		"longitud" : 483
+	},
+	{
+		"id" : "Q9Y262",
+		"nombre" : "Eukaryotic translation initiation factor 3 subunit L",
+		"revisado" : 1,
+		"longitud" : 564
+	},
+	{
+		"id" : "Q9Y5P8",
+		"nombre" : "Serine/threonine-protein phosphatase 2A regulatory subunit B' subunit beta",
+		"revisado" : 1,
+		"longitud" : 575
+	}
+]

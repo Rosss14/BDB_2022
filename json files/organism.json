@@ -1,0 +1,34 @@
+[
+	{
+		"tax_id" : 3702,
+		"nombre" : "Arabidopsis thaliana"
+	},
+	{
+		"tax_id" : 6239,
+		"nombre" : "Caenorhabditis elegans"
+	},
+	{
+		"tax_id" : 7227,
+		"nombre" : "Drosophila melanogaster"
+	},
+	{
+		"tax_id" : 9606,
+		"nombre" : "Homo sapiens"
+	},
+	{
+		"tax_id" : 9913,
+		"nombre" : "Bos taurus"
+	},
+	{
+		"tax_id" : 9986,
+		"nombre" : "Oryctolagus cuniculus"
+	},
+	{
+		"tax_id" : 10090,
+		"nombre" : "Mus musculus"
+	},
+	{
+		"tax_id" : 10116,
+		"nombre" : "Rattus norvegicus"
+	}
+]

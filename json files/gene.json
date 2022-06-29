@@ -1,0 +1,87 @@
+[
+	{
+		"id" : 4627,
+		"nombre" : "MYH9",
+		"organism" : 9606
+	},
+	{
+		"id" : 5467,
+		"nombre" : "PPARD",
+		"organism" : 9606
+	},
+	{
+		"id" : 5499,
+		"nombre" : "PPP1CA",
+		"organism" : 9606
+	},
+	{
+		"id" : 6665,
+		"nombre" : "SOX15",
+		"organism" : 9606
+	},
+	{
+		"id" : 17311,
+		"nombre" : "Kitl",
+		"organism" : 10090
+	},
+	{
+		"id" : 23268,
+		"nombre" : "DNMBP",
+		"organism" : 9606
+	},
+	{
+		"id" : 25583,
+		"nombre" : "Cryba1",
+		"organism" : 10116
+	},
+	{
+		"id" : 28227,
+		"nombre" : "PPP2R3B",
+		"organism" : 9606
+	},
+	{
+		"id" : 45970,
+		"nombre" : "S6KL",
+		"organism" : 7227
+	},
+	{
+		"id" : 51386,
+		"nombre" : "EIF3L",
+		"organism" : 9606
+	},
+	{
+		"id" : 51741,
+		"nombre" : "WWOX",
+		"organism" : 9606
+	},
+	{
+		"id" : 172682,
+		"nombre" : "gls-1",
+		"organism" : 6239
+	},
+	{
+		"id" : 281572,
+		"nombre" : "VEGFA",
+		"organism" : 9913
+	},
+	{
+		"id" : 281881,
+		"nombre" : "KCNH1",
+		"organism" : 9913
+	},
+	{
+		"id" : 532712,
+		"nombre" : "CDC42",
+		"organism" : 9913
+	},
+	{
+		"id" : 820600,
+		"nombre" : "RHD3",
+		"organism" : 3702
+	},
+	{
+		"id" : 100009298,
+		"nombre" : "PPP1CA",
+		"organism" : 9986
+	}
+]
