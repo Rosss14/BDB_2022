@@ -1,5 +1,0 @@
-xquery version "3.1";
-for $i in doc("/db/isoform/isoforms.xml")//isoform
-for $protein in doc("/db/isoform/isoforms.xml")//protein
-where ($protein/longitud >500) and ($i/protein_id = $protein/id)
-return concat($i/protein_id,",",$i/isoform_num,",", $i/longitud)
